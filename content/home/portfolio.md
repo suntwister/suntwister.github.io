@@ -10,35 +10,37 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
-subtitle: ''
+title: "Portfolio"
+subtitle: "A showcase of my work in Data Science, Machine Learning, and Analytics."
 
 content:
-  # Page type to display. E.g. project.
+  # Page type to display.
   page_type: project
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  # Default filter index (e.g. 0 = first filter button below)
   filter_default: 0
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
+  # Filter toolbar for categories
   filter_button:
     - name: All
       tag: '*'
+    - name: Data Analytics
+      tag: Analytics
     - name: Machine Learning
       tag: ML
     - name: Computer Vision
       tag: CV
-    - name: NLP
+    - name: Natural Language Processing
       tag: NLP
+    - name: Backend & Automation
+      tag: Backend
+    - name: AI Applications
+      tag: AI
 
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: { padding: [0, 0, 0, 0] }
 ---
