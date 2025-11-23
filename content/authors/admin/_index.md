@@ -1,73 +1,54 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Samuel Oyewusi
 
-# Is this the primary user of the site?
+# Primary user of the site
 superuser: true
 
 # Role/position
-role: ''
+role: Data Analyst | Machine Learning & AI Enthusiast
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💡
 
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+# Short bio (displayed in profile and posts)
+bio: Data Analyst skilled in Python, SQL, Power BI, and Machine Learning—turning complex data into meaningful insights, dashboards, and predictive models that support data-driven decision-making.
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Interests
+interests:
+  - Machine Learning & Artificial Intelligence
+  - Data Analytics & Visualization
+  - Deep Learning & Computer Vision
+  - Natural Language Processing (NLP)
+  - Business Intelligence (Power BI, SQL)
+  - Data Engineering Foundations
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+# Education
+education:
+  courses:
+    - course: B.Tech. Pure and Applied Mathematics
+      institution: Ladoke Akintola University of Technology (LAUTECH)
+      year: 2022
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: "mailto:samueloluwatobi54@gmail.com"
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: "https://github.com/suntwister"
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+    link: "https://www.linkedin.com/in/samuel-oyewusi-115239169"
+  # Add more later (Twitter, Kaggle, etc.)
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Samuel Oyewusi is a Data Analyst with hands-on experience in data analytics, dashboard development, and machine learning.  
+He works with **Python, SQL, Power BI, Excel, and TensorFlow** to extract insights, automate processes, and develop intelligent data-driven solutions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His projects span logistics analytics, financial reporting, predictive modelling, computer vision, and natural language processing.  
+Samuel is passionate about turning raw data into clear, actionable insights that support business efficiency and innovation.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my résumé as a PDF.
