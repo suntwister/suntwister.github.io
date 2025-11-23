@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - title: Data Science & Machine Learning Certificate
+    organization: MindLuster
+    organization_url: https://www.mindluster.com
+    certificate_url: https://www.mindluster.com/student/certificate/677433148
+    date_start: '2024-01-01'
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    description: |2-
+        Practical training covering core data science concepts, machine learning workflows, and analytical techniques.
+  - title: Machine Learning Certification
+    organization: Simplilearn
+    organization_url: https://www.simplilearn.com
+    certificate_url: https://simpli-web.app.link/e/GSMCzJd4kYb
+    date_start: '2023-01-01'
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    description: |2-
+        Training on supervised and unsupervised learning, model evaluation, and applied ML projects.
+  - title: Getting Started With Natural Language Processing
+    organization: AI Planet
+    organization_url: https://aiplanet.com
+    certificate_url: https://aiplanet.com/course/certificates/download/b5617004-87c5-4d42-90cb-7b0b94cf6f87/
+    date_start: '2023-06-01'
+    date_end: '2024-10-24'
+    description: |2-
+        Introduction to NLP fundamentals including text preprocessing, embeddings, and building basic NLP models.
 
 design:
   columns: '1'
