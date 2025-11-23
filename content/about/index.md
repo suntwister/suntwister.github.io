@@ -51,4 +51,10 @@ He works with **Python, SQL, Power BI, Excel, and TensorFlow** to extract insigh
 My projects span logistics analytics, financial reporting, predictive modelling, computer vision, and natural language processing.  
 Samuel is passionate about turning raw data into clear, actionable insights that support business efficiency and innovation.
 
+education:
+  courses:
+    - course: B.Tech. Pure and Applied Mathematics
+      institution: Ladoke Akintola University of Technology (LAUTECH)
+      year: 2022
+
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my résumé as a PDF.
