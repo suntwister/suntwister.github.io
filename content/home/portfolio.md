@@ -29,13 +29,13 @@ content:
     - name: All
       tag: '*'
     - name: Analytics
-      tag: Analytics
+      tag: 'Analytics'
     - name: Python/ML
-      tag: P/ML
+      tag: 'P/ML'
     - name: SQL
-      tag: SQL
+      tag: 'SQL'
     - name: AI & Deep Learning
-      tag: AI
+      tag: 'AI'
 
 design:
   columns: '1'
